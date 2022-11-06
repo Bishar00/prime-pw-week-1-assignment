@@ -13,7 +13,7 @@ body{
 /* Make the header and footer a different color from the background */
 
 h1, footer{
-    background-color: #E27D60;
+    background-color: white;
     width: 100%;
 }
 
@@ -27,7 +27,7 @@ h1{
 
 p{
     font-style: italic;
-    color: #fff;
+    color: #000000;
 }
 
 /* Put a border around your image */
@@ -53,8 +53,9 @@ footer{
    align-items: center;
    bottom: 0;
    height: 60px;
+   background-color: #ff0000;
    
 }
-footer p {
+/*footer p {
     color:  black;
 }
